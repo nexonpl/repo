@@ -1,0 +1,8 @@
+Architectures: iphoneos-arm
+Codename: msrepo
+Components: main
+Description: MuffinStore Repo for older iOS
+Label: MuffinStore
+Origin: MuffinStore
+Suite: stable
+Version: 1.0
