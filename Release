@@ -1,9 +1,8 @@
 Architectures: iphoneos-arm
-Codename: nexonpl
+Codename: msrepo
 Components: main
-Description: My repo includes must have tweaks for old iOS versions
-Label: Nexon's Repo
-Origin: Nexon's Repo
+Description: MuffinStore Repo for older iOS
+Label: MuffinStore
+Origin: MuffinStore
 Suite: stable
 Version: 1.0
-Icon: /icon.png
