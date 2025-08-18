@@ -1,23 +1,25 @@
-Package: com.filippobiga.springtomize2
-Version: 1.4.3-1
+Package: org.tihmstar.kDFUApp
+Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 561
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
-Conflicts: com.filippobiga.springtomize
-Filename: ./debs/springtomize2_1.4.3-1_appleguider.net.deb
-Size: 207622
-MD5sum: 83af51e0a7624ffb9532c7b0d836681b
-SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
-SHA256: 5de3f23b516c148a0efc378ebcc4dacfc693ab45600a2419aef39e4fd7da56c5
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
-Description: SpringBoard, the way you want it. All over again.
-Tag: cydia::commercial, purpose::extension
-Author: FilippoBiga <filippobiga.dev@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
-Dev: filippobiga
-Icon: file:///Applications/springtomizeapp.app/Icon.png
-Name: Springtomize 2 - iOS 5 & 6
-Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: tihmstar
+Depends: openssl, libcrippy-1.0.0, libpartialzip-1.0.0, curl, kloader, firmware (>= 6.0)
+Filename: ./debs/org.tihmstar.kDFUApp-1.0.2.deb
+Size: 80458
+MD5sum: d2fb236c946705c835a08f844527f0c1
+SHA1: bd26bd0a4d7c9a60d0af75a962ced322962d2f3f
+SHA256: b52de8c051332425576b11a3d9ce9637a70c184afc5479ad449d1467a4868271
+Section: System
+Priority: optional
+Description: easy way to get into kDFU mode
+ kDFUApp is an easy way to get into kDFU mode
+ simply activate all switches and press the button
+ <br>
+ <br>Currently compatible with:
+ <br>iPhone3,1 / iPhone3,2 / iPhone3,3 / iPhone4,1 / iPhone5,1 / iPhone5,2 / iPhone5,4
+ <br>iPad2,1 / iPad2,2 / iPad2,3 / iPad3,1 / iPad3,3
+ <br>
+ <br>NOT COMPATIBLE WITH 64BIT DEVICES!
+Author: tihmstar
+Dev: tihmstar
+Name: kDFUApp
 
