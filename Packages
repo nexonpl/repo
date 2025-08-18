@@ -1,7 +1,31 @@
+Package: com.filippobiga.springtomize2
+Version: 1.4.3-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 561
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, com.filippobiga.springtomize2-icons, com.filippobiga.springtomize2-localizations
+Conflicts: com.filippobiga.springtomize
+Filename: ./debs/springtomize2_1.4.3-1_appleguider.net.deb
+Size: 207622
+MD5sum: 83af51e0a7624ffb9532c7b0d836681b
+SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
+SHA256: 5de3f23b516c148a0efc378ebcc4dacfc693ab45600a2419aef39e4fd7da56c5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Description: SpringBoard, the way you want it. All over again.
+Tag: cydia::commercial, purpose::extension
+Author: FilippoBiga <filippobiga.dev@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize2Dp
+Dev: filippobiga
+Icon: file:///Applications/springtomizeapp.app/Icon.png
+Name: Springtomize 2 - iOS 5 & 6
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: dev.mineek.muffinstore
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mineek
+Installed-Size: 96
 Filename: ./debs/dev.mineek.muffinstore_0.0.1_iphoneos-arm.deb
 Size: 16760
 MD5sum: 1f348a94b7028f4023c27eb3b192a01e
@@ -12,16 +36,3 @@ Description: Downgrade iOS apps easily on-device
 Author: Mineek
 Name: MuffinStore
 
-Package: dev.filippobiga.springtomize2
-Version: 1.4.5-1
-Architecture: iphoneos-arm
-Maintainer: Mineek
-Filename: ./debs/springtomize2_1.4.3-1_appleguider.net.deb
-Size: 207622
-MD5sum: 1f348a94b7028f4023c27eb3b192a01e
-SHA1: fa876d5ec2b43b8518e26a5b6cd8ed046517779e
-SHA256: a5b75934991ab40a7b893b927ea36da1f819825d4658dfed814997431cd1ec00
-Section: Utilities
-Description: Downgrade iOS apps easily on-device
-Author: FilippoBiga
-Name: Springtomize 2 - iOS 5 & 6
