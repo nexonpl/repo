@@ -1,0 +1,14 @@
+Package: dev.mineek.muffinstore
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 209
+Filename: debs/springtomize2_1.4.3-1_appleguider.net.deb
+Size: 209
+MD5sum: 83af51e0a7624ffb9532c7b0d836681b
+SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
+SHA256: 5de3f23b516c148a0efc378ebcc4dacfc693ab45600a2419aef39e4fd7da56c5
+Section: Utilities
+Description: dupa
+Author: Nexon
+Name: Springtonize2
